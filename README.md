@@ -27,7 +27,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'SangjuGotgam';
+    font-family: 'SangjuGyeongcheonIsland';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/sangju/SangjuGyeongcheonIsland.eot');
