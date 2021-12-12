@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'SangjuGotgam';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/sangju/SangjuGotgam.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/sangju/SangjuGotgam.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/sangju/SangjuGotgam.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/sangju/SangjuGotgam.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/sangju/SangjuGotgam.ttf') format("truetype");
+    font-display: swap;
+} 

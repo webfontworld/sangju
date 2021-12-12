@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'SangjuDajungdagam';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/SangjuDajungdagam.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/SangjuDajungdagam.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/SangjuDajungdagam.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/SangjuDajungdagam.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/SangjuDajungdagam.ttf') format("truetype");
+    font-display: swap;
+} 
