@@ -65,18 +65,18 @@
 # 상주다정다감체(SangjuDajungdagam)
 
 <a href="https://wess.tistory.com/275" target="_blank">
-    <img src="https://webfontworld.github.io/nyj/SangjuDajungdagam.jpg" alt="YSpotLight" style="width:300px">
+    <img src="https://webfontworld.github.io/sangju/SangjuDajungdagam.jpg" alt="SangjuDajungdagam" style="width:300px">
 </a>
 <pre>
 @font-face {
     font-family: 'SangjuDajungdagam';
     font-weight: normal;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/SangjuDajungdagam.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/SangjuDajungdagam.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/SangjuDajungdagam.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/SangjuDajungdagam.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/SangjuDajungdagam.ttf') format("truetype");
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/sangju/SangjuDajungdagam.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/sangju/SangjuDajungdagam.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/sangju/SangjuDajungdagam.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/sangju/SangjuDajungdagam.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/sangju/SangjuDajungdagam.ttf') format("truetype");
     font-display: swap;
 } 
 </pre>
